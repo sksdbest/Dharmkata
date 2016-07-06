@@ -1,0 +1,2 @@
+# Dharmkata
+weighing bridge machine 
